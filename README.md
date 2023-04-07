@@ -12,3 +12,6 @@ Features:
     User loading: You can load a list of users into the app, which will then be used to scan computers and find their profiles.
 
 Overall, PsGuiRolf is a powerful and easy-to-use tool that can help you manage user profiles on your local network.
+
+Install-Instructions 
+Download the PsGuiRolf.zip and extract
