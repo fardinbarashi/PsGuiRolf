@@ -19,5 +19,5 @@ Download the PsGuiRolf.zip and extract
 ![1 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/1.PNG)
 ![2 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/2.PNG)
 ![3 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/3.PNG)
-![4 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/4.PNG)
-![5 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/5.PNG)
+![4 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/5.png)
+![5 image](https://github.com/fardinbarashi/PsGuiRolf/blob/main/Screenshots/6.png)
